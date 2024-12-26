@@ -1,35 +1,45 @@
-<img src="https://cdn.discordapp.com/attachments/1225612992201363552/1296638643166904330/baber-banner1.PNG?ex=67130456&is=6711b2d6&hm=307c7c6bc7d65ea01bcfb19ea148d6e159ea4843d4b3060c6a5a98e0059525bd&"/>
+## 📸 **Demonstração**  
+
+<img src="https://cdn.discordapp.com/attachments/1225612992201363552/1321639904287002746/sb1.png?ex=676df894&is=676ca714&hm=0b6709359fe54f5171fdf8e2e6c5f118c1432ce48b0420ba63240f8e2cb35e7c&"/>
+
+Link do Site:https://salao-de-belezah.netlify.app/
 
 
-# ✂️ Site de Barbearia 
+# 💇‍♀️ Salão de Beleza  
 
-Bem-vindo ao repositório da Barbearia ! Este é um site moderno e responsivo para agendamentos e informações sobre nossos serviços.
+Este projeto é um site desenvolvido para um salão de beleza, utilizando **HTML**, **CSS** e **JavaScript**. O site foi criado com foco em proporcionar uma experiência fácil e prática para os clientes, com funcionalidades como **agendamento online**, informações detalhadas sobre serviços e **design responsivo** para todos os dispositivos.  
 
-## 📚 Sumário
+---
 
-- [Sobre](#sobre)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Funcionalidades](#funcionalidades)
+## ✨ **Funcionalidades**  
 
-## 🏠 Sobre
+- **Sistema de Agendamento para ir API do Whatsapp**:  
+  Os clientes podem selecionar o serviço desejado, escolher uma data e hora disponíveis e agendar diretamente pelo site.  
 
-A Barbearia oferece um ambiente acolhedor e serviços de alta qualidade para todos os nossos clientes. Este site permite que os usuários agendem horários e conheçam mais sobre os serviços oferecidos.
+- **Informações Detalhadas**:  
+  Exibe informações completas sobre os serviços oferecidos, como cortes, coloração, manicure e outros tratamentos.  
 
-## 🛠️ Tecnologias Utilizadas
+- **Design Moderno e Responsivo**:  
+  Interface elegante e adaptada para dispositivos móveis, tablets e desktops, proporcionando uma ótima experiência de navegação.  
 
-- HTML
-- CSS
-- JavaScript
-- **SASS**: Para gerenciamento de estilos 🖌️
-- **FullCalendar**: Para gerenciamento de agendamentos 📅
+- **Links para Redes Sociais**:  
+  Integração com as redes sociais do salão para facilitar a conexão com os clientes.  
 
-## 🚀 Funcionalidades
+---
 
-- **Agendamento Online**: Os usuários podem agendar seus horários diretamente pelo site. 📅
-- **Lista de Serviços**: Apresenta todos os serviços oferecidos, com descrições e preços. 💇‍♂️
-- **Design Responsivo**: O site é otimizado para dispositivos móveis e desktops, garantindo uma boa experiência de usuário em qualquer tela. 📱💻
-- **Informações de Contato**: Fácil acesso às informações de contato e localização da barbearia. 📍
+## 🛠️ **Tecnologias Utilizadas**  
+
+- **HTML**: Para estruturar o conteúdo do site.  
+- **CSS**: Para estilizar o design e torná-lo visualmente atraente.  
+- **JavaScript**: Para funcionalidades interativas como o sistema de agendamento.  
+
+---
 
 
-## Visualização
-Veja o site aqui https://barbearia-h.netlify.app/
+## 📞 **Contato**  
+
+Se você gostou deste projeto ou deseja contribuir, entre em contato:  
+- **E-mail**: hernandesneves@gmail.com
+- **GitHub**: https://github.com/hernandessn
+
+
