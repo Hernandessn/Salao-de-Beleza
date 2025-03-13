@@ -1,6 +1,6 @@
 ## 📸 **Demonstração**  
 
-<img src="https://cdn.discordapp.com/attachments/1225612992201363552/1321639904287002746/sb1.png?ex=676df894&is=676ca714&hm=0b6709359fe54f5171fdf8e2e6c5f118c1432ce48b0420ba63240f8e2cb35e7c&"/>
+<img src="https://github.com/Hernandessn/Salao-de-Beleza/blob/main/img/screenshot/1.png?raw=true"/>
 
 Link do Site:https://salao-de-belezah.netlify.app/
 
