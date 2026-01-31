@@ -39,7 +39,7 @@ Este projeto é um site desenvolvido para um salão de beleza, utilizando **HTML
 ## 📞 **Contato**  
 
 Se você gostou deste projeto ou deseja contribuir, entre em contato:  
-- **E-mail**: hernandesneves@gmail.com
+- **E-mail**: hernandesneves07@gmail.com
 - **GitHub**: https://github.com/hernandessn
 
 
